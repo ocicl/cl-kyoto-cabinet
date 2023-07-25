@@ -1,0 +1,10 @@
+* cl-kyoto-cabinet
+
+CFFI interface to Kyoto Cabinet
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kraison/cl-kyoto-cabinet.git   |
+| commit  | 28cde23  |
+| systems | cl-kyoto-cabinet |
+|---------+-------------------------------------------|
+
