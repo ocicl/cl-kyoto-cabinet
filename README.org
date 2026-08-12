@@ -8,4 +8,4 @@ CFFI interface to Kyoto Cabinet
 | systems | cl-kyoto-cabinet |
 |---------+-------------------------------------------|
 
- 
+  
